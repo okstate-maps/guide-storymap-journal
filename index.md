@@ -107,6 +107,7 @@ Story Map Cascade allows you to create and in-depth journal narrative which is o
 ![Close](images/Close.PNG)
 
 ## Conclusion
+Story Map Journal is a great choice for when a lot of narrative is need and there are accompanying media files or maps to add more detail and make it more interesting.
 
 ## Further Reading/Resources
 
