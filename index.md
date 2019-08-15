@@ -16,8 +16,8 @@ Created by [OSU Maps and Spatial Data](https://info.library.okstate.edu/map-room
 ## Introduction
 Story Maps are a relatively new and unique way of telling stories by using maps, images and videos. Esri offers many different Story Map templates that can be utilized for a multitude of projects and purposes.
 
-## *[Story Map Cascade]*
-Story Map Cascade allows you to create and in-depth journal narrative which is organized into sections. This allows readers to scroll through these different sections of text and see the relavent content, such as maps, images, videos, etc. 
+## *[Story Map Journal]*
+Story Map Cascade allows you to create an in-depth journal narrative which is organized into sections. This allows readers to scroll through these different sections of text and see the relavent content, such as maps, images, videos, etc. 
 
 #### Getting Started
 1. In order to locate the older story map templates, visit this [website](https://storymaps-classic.arcgis.com/en/app-list/?buildApp=true).
